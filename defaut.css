@@ -1,0 +1,47 @@
+header{
+    background-image: url("Untitled.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    opacity: 90%;
+    
+    
+}
+.a {
+    background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 30px;
+  
+  }
+  section{ 
+    background-image: url("unsplash_eyfMgGvo9PA.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 800px;
+    opacity: 80%;
+    
+
+  }
+  .img img {
+    width: 300px;
+  }
+  footer{
+    background-image: url("unsplash_MHhV4igCcYE 1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    opacity: 90%;
+    
+    
+}
+ 
+   
